@@ -30,7 +30,7 @@
 
 ---
 
-## 3. Empresária de Eventos e Gastronomia (Dona de Buffet)
+## 3. Empresária de Eventos e Gastronomia 
 
 **O que mudou nos últimos 20 anos**
 
