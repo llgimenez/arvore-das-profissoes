@@ -15,7 +15,7 @@ Este repositório reúne o mapeamento das profissões da minha família ao longo
 A construção da árvore evidencia a diversidade de profissões e o espírito empreendedor e trabalhador presentes na minha história:
 
 * **Avô José (†):** Empresário do setor comercial, atuou diretamente na venda de autopeças.
-* **Avó Neuza:** Empresária dedicada ao ramo de eventos e gastronomia (buffet).
+* **Avó Neuza:** Empresária dedicada ao ramo de eventos e gastronomia.
 * **Avô Dejaci:** Comerciante e empresário, atuando com bar e locação de espaços.
 * **Avó Fátima:** Trabalhou com serviços gerais, atuando como faxineira e diarista.
 * **Mãe Daniela:** Professora e pedagoga, dedicada à educação nos anos iniciais.
