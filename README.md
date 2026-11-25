@@ -39,6 +39,6 @@ Como parte do projeto, pesquisei a evolução histórica (últimos 20 anos) e as
 
 ## 📂 Arquivos do Repositório
 
-* `arvore.png`: Diagrama visual da árvore das profissões da família criado no Canva.
-* `pesquisa.md`: Levantamento detalhado com fontes confirmadas sobre as transformações nas três profissões escolhidas.
-* `README.md`: Apresentação geral do projeto.
+* [`arvore.png`](arvore.png): Diagrama visual da árvore das profissões da família criado no Canva.
+* [`pesquisa.md`](pesquisa.md): Levantamento detalhado com fontes confirmadas sobre as transformações nas três profissões escolhidas.
+* [`README.md`](README.md): Apresentação geral do projeto.
